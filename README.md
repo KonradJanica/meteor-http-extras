@@ -1,6 +1,10 @@
 http-extras
 =========================
 
+Adds the features proposed in [this PR](https://github.com/aldeed/meteor-http-extras/pull/8).
+
+Adds the features proposed in [this PR](https://github.com/aldeed/meteor-http-extras/pull/6).
+
 Adds the features proposed in [this PR](https://github.com/meteor/meteor/pull/1670/). Add this to your project along with the core `http` package.
 
 ## Installation
@@ -8,7 +12,7 @@ Adds the features proposed in [this PR](https://github.com/meteor/meteor/pull/16
 In a Meteor app directory, enter:
 
 ```bash
-$ meteor add http aldeed:http
+$ meteor add http konradjanica:http
 ```
 
 ## Details
